@@ -1,0 +1,12 @@
+{
+  "name": "artofwp/debug-bar-mailhog",
+  "description": "Adds MailHog support to WordPress Debug Bar",
+  "minimum-stability": "dev",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Andreas Nurbo",
+      "email": "andreas@artofwp.com"
+    }
+  ]
+}
