@@ -1,0 +1,1 @@
+{"version":3,"sources":["mailhog.css"],"names":[],"mappings":"AAAA,kDAEE,SAAU,AACV,UAAW,AACX,eAAiB,CAClB","file":"mailhog.min.css","sourcesContent":[".debug-bar-mailhog-to ul,\n.debug-bar-mailhog-to li {\n  margin: 0;\n  padding: 0;\n  list-style: none;\n}\n"],"sourceRoot":"/source/"}
