@@ -3,8 +3,8 @@
 Plugin Name: Debug Bar - MailHog support
 Plugin URI: https://github.com/ArtOfWP/debug-bar-mailhog
 Description: Adds MailHog Support to Debug Bar
-Version: 1.0
-Author: Andreas Nurbo
+Version: 0.1
+Author: Andreas Nurbo, Art Of WP
 Author URI: http://www.artofwp.com
 License: GPLv2
 */
